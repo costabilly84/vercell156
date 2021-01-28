@@ -1,0 +1,4 @@
+baseURL = "https://insurancequotesz67.vercel.app"
+languageCode = "en-us"
+title = "Best Insurance Quotes 2021"
+theme = "tale-hugo-master"
